@@ -15,5 +15,7 @@ namespace bank_backend.Models
         }
 
         // public DbSet<<Model_Name>> <Table_name> { get; set; }
+        public DbSet<User> UserDetails { get; set; }
+     
     }
 }

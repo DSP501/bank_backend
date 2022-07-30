@@ -6,8 +6,6 @@ D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\bank_backend.runtimeconfig.dev.json
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\bank_backend.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\bank_backend.pdb
-D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -16,9 +14,7 @@ D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
@@ -38,13 +34,6 @@ D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\obj\Debug\netcoreapp3.1\bank_backend.csproj.AssemblyReference.cache
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\obj\Debug\netcoreapp3.1\bank_backend.GeneratedMSBuildEditorConfig.editorconfig
@@ -60,3 +49,14 @@ D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\obj\Debug
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\obj\Debug\netcoreapp3.1\bank_backend.dll
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\obj\Debug\netcoreapp3.1\bank_backend.pdb
 D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\obj\Debug\netcoreapp3.1\bank_backend.genruntimeconfig.cache
+D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\DSP\work\LTI\Inhouse\ProjectGladiator\git\bank_backend\bank_backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
