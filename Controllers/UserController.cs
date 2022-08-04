@@ -19,6 +19,17 @@ namespace bank_backend.Controllers
             _context = context;
         }
 
+        [Route("getUserByRefId/{id}")]
+        [HttpGet("{id}")]
+        public IActionResult getUserByRefId(int id)
+        {
+            var data = _context.UserDetails.FirstOrDefault(u => u.user_ref_id == id);
+            return Ok(data);
+        }
+   
+    
+
+
         [HttpGet]
         public IEnumerable<User> getAllUser()
         {
@@ -37,7 +48,7 @@ namespace bank_backend.Controllers
 
                 _context.UserDetails.Add(user);
                 _context.SaveChanges();
-                return Ok("Success");
+                return StatusCode(200);
             }
             else
             {
@@ -46,13 +57,14 @@ namespace bank_backend.Controllers
             
         }
 
-        [HttpGet("{id}")]
-        public ActionResult getUserById(int? id)
+        [Route("getUserById")]
+        [HttpPost]
+        public ActionResult getUserById(User id)
         {
-            var data = _context.UserDetails.FirstOrDefault(e => e.user_ref_id == id);
+            var data = _context.UserDetails.Where(e => e.email == id.email).FirstOrDefault();
             if (data == null)
             {
-                return StatusCode(404); 
+                return StatusCode(200, "-1"); 
             }
             else
             {
@@ -62,13 +74,7 @@ namespace bank_backend.Controllers
 
         
 
-        [Route("getUnverifiedUser")]
-        [HttpGet]
-        public IEnumerable<User> getUnverifiedUser()
-        {
-            var data = _context.UserDetails.ToList().Where(e => e.isapproved == false);
-            return data;
-        }
+        
 
 
 
